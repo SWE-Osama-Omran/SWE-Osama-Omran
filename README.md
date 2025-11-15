@@ -64,7 +64,7 @@ I'm a passionate Flutter developer with experience in building **scalable, high-
 
 ## 🤝 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/osama-omran-6a68161b3/)  
-- [GitHub](https://github.com/osamaOmran1917)  
+- [GitHub](https://github.com/SWE-Osama-Omran)  
 
 ---
 
