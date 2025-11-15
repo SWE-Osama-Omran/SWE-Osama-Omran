@@ -58,7 +58,7 @@ I'm a passionate Flutter developer with experience in building **scalable, high-
 ---
 
 ## 📊 GitHub Stats
-![Osama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=osamaOmran1917&show_icons=true&hide_border=true&theme=radical)
+![Osama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SWE-Osama-Omran&show_icons=true&hide_border=true&theme=radical)
 
 ---
 
